@@ -1,5 +1,8 @@
 # gabrieltinsley.github.io
-This is my website name.
+# My name is Gabriel Tinsley
+## I am from Seattle, Washington and am a sophomore at Boise State studying Computer Science.
 
-Here is the link to my real github account. https://github.com/gabrieltinsley
+> Here is the link to my real github account. [My actual github](https://github.com/gabrieltinsley)
+
+#000000
 
