@@ -1,6 +1,6 @@
 # gabrieltinsley.github.io
 # My name is Gabriel Tinsley
-## I am from Bonney Lake, Washington and am a Junior at Boise State studying Computer Science with a Cybersecurity Emphasis
+## I am from Bonney Lake, Washington and am a Junior at Boise State studying Computer Science with a Cyber Security emphasis.
 
 > Here is the link to [my real github](https://github.com/gabrieltinsley).
 
